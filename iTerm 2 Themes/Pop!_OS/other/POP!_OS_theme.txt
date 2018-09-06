@@ -1,0 +1,26 @@
+## Pop!_OS
+
+cursor: #49b9c7
+highlight: #49b9c7
+text_folder: #48b7c5
+text: #828282
+prompt: #6fbc8a
+background: #4d4d4d 
+unknown: #449fa0 Dark Green
+
+
+## iTerm
+
+background: #4d4643
+forground: #d4d4d4
+selection: #666666
+selected_text: #ffffff
+cursor: #35a6b3
+cursor_text: #d4d4d4
+links: #faa41a
+ansi_blue_norm: #35a6b3
+ansi_blue_bright: #0dc6db (#2ccbcd)
+ansi_white_norm: #f1f1f0
+ansi_white_bright: #ffffff
+ansi_black_norm: #454545
+ansi_black_bright: #666666
