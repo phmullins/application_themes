@@ -6,7 +6,7 @@ Based on the [Pop!_OS](https://system76.com/pop) system theme created and mainta
 
 ## Screenshots
 
-![Theme](/theme/POP!_OS_iterm_theme.png)
+![Theme](/phmullins/themes/blob/master/iTerm%202%20Themes/Pop!_OS/theme/POP!_OS_iterm_theme.png)
 
 ## Author & Information
 
