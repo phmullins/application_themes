@@ -4,7 +4,7 @@ Various Alfred, iTerm, and VSCode themes that I have created over the years.
 
 ## iTerm 2 Themes
 
-1. [POP!_OS](https://github.com/phmullins/themes/tree/master/iTerm/Pop!_OS)
+1. [POP!_OS](https://github.com/phmullins/themes/tree/master/Themes/iTerm%202/Pop!_OS)
 
 
 ## Author
