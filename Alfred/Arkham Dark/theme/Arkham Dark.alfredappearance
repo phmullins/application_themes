@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#76A6B3C4",
+        "font" : "Helvetica Neue Light",
+        "color" : "#A1BCD365"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#76A6B3B8"
+      },
+      "backgroundSelected" : "#373737FF",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#9CDDF1BB",
+        "font" : "Helvetica Neue Light",
+        "color" : "#76A6B3BA"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 33
+    },
+    "search" : {
+      "paddingVertical" : 7,
+      "background" : "#202020DB",
+      "spacing" : 8,
+      "text" : {
+        "size" : 25,
+        "colorSelected" : "#BBB5B3FF",
+        "font" : "Helvetica Neue Light",
+        "color" : "#BBB5B3FF"
+      },
+      "backgroundSelected" : "#202020DB"
+    },
+    "window" : {
+      "color" : "#202020DB",
+      "paddingHorizontal" : 9,
+      "width" : 559,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 7,
+      "paddingVertical" : 7
+    },
+    "credit" : "Patrick H. Mullins",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#666666FF",
+      "thickness" : 2
+    },
+    "name" : "Arkham Dark"
+  }
+}

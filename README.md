@@ -1,13 +1,14 @@
 # Themes
 
-Various iTerm 2 and VSCode themes that I have created over the years.
+Various Alfred, iTerm, and VSCode themes that I have created over the years.
 
-## iTerms 2 Themes
+## iTerm 2 Themes
 
-1. [POP!_OS](https://github.com/phmullins/themes/tree/master/iTerm%202%20Themes/Pop!_OS)
+1. [POP!_OS](https://github.com/phmullins/themes/tree/master/iTerm/Pop!_OS)
 
 
-## Author & Information
+## Author
+Created by [Patrick H. Mullins](http://www.pmullins.net). You can find me on  [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
 
-Created by [Patrick H. Mullins](http://www.pmullins.net/about). Source is released under the MIT [license](license.md). Please report any bug or issues as an official GitHub issue [here](https://github.com/phmullins/Pop!_OS_macOS_Theme/issues). You can find me on [Twitter](https://twitter.com/phmullins) and on [Telegram](https://telegram.org/) as @pmullins.
-
+## License
+Source is released under the MIT License (MIT) [license](license.md).
