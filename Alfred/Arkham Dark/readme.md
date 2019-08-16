@@ -6,7 +6,7 @@ Based in part on the [Pop!_OS](https://system76.com/pop) system theme created an
 
 ## Screenshots
 
-![Theme](/phmullins/themes/blob/master/Alfred/Arkham%202%20Dark/theme/theme_alfred_arkham_dark.png)
+![Theme](https://github.com/phmullins/themes/blob/master/Alfred/Arkham%20Dark/theme/theme_alfred_arkham_dark.png)
 
 ## Author & Information
 
