@@ -28,7 +28,7 @@
     "search" : {
       "paddingVertical" : 7,
       "background" : "#202020DB",
-      "spacing" : 8,
+      "spacing" : 5,
       "text" : {
         "size" : 25,
         "colorSelected" : "#BBB5B3FF",
@@ -39,13 +39,13 @@
     },
     "window" : {
       "color" : "#202020DB",
-      "paddingHorizontal" : 9,
+      "paddingHorizontal" : 5,
       "width" : 559,
       "borderPadding" : 0,
       "borderColor" : "#0000007F",
       "blur" : 15,
       "roundness" : 7,
-      "paddingVertical" : 7
+      "paddingVertical" : 5
     },
     "credit" : "Patrick H. Mullins",
     "separator" : {
