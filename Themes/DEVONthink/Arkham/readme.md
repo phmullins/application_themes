@@ -9,7 +9,7 @@ have something that you like. Good luck!
 
 ## Screenshots
 
-![Theme](https://github.com/phmullins/themes/tree/master/Themes/DEVONthink/Arkham/theme/theme_arkham_devonthink.jpg)
+![DEVONthink Theme](https://github.com/phmullins/themes/blob/master/Themes/DEVONthink/Arkham/theme/theme_arkham_devonthink.jpg)
 
 ## Author & Information
 
