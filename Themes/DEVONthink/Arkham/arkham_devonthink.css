@@ -1,0 +1,74 @@
+/*
+Name: Arkham CSS for DEVONthink v0.1.9
+Date Created: 2018-09-09 @ 07:38 PM - Date Revised: 2020-06-13 @ 08:14 AM
+Author: Patrick H. Mullins (patrick@arkmail.us)
+Homepage: https://pmullins.net/
+*/
+
+/* Fonts Available: Droid Sans, Ubuntu, and Open Sans */
+@import url("http://fonts.googleapis.com/css?family=Droid+Sans");
+@import url("http://fonts.googleapis.com/css?family=Ubuntu");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700");
+
+/* Arkham CSS - Basic Page */
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 100%;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+  background-color: #f6f6f6;
+  color: #333;
+  position: relative;
+  margin: 10;
+  padding: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Arkham CSS - Links */
+
+p {
+  color: #000000;
+}
+
+a {
+  color: #33a1de;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4682B4;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #4682B4;
+}
+
+/* Arkham CSS - h1-h6 */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #202020;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: .3em;
+}
+
+blockquote {
+  font-family: 'Courier';
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+pre {
+  font-family: 'Courier';
+  background-color: #fafafa;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+}
