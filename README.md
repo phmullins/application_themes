@@ -8,7 +8,7 @@ Various Alfred, DEVONthink, Terminal, iTerm, and VSCode themes that I have creat
 
 ### DEVONthink 3 CSS Stylesheets
 
-1. [Arkham]()
+1. [Arkham](https://github.com/phmullins/themes/blob/master/Themes/DEVONthink/Arkham)
 
 ### iTerm 2 Themes
 
