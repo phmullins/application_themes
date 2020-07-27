@@ -1,30 +1,27 @@
 /*
-Name: Arkham CSS for DEVONthink v0.1.9
-Date Created: 2018-09-09 @ 07:38 PM - Date Revised: 2020-06-13 @ 08:14 AM
+Name: Arkham CSS for DEVONthink v0.2.0
+Date Created: 2018-09-09 - Date Revised: 2020-07-26
 Author: Patrick H. Mullins (patrick@arkmail.us)
 Homepage: https://pmullins.net/
 */
-
-/* Fonts Available: Droid Sans, Ubuntu, and Open Sans */
-@import url("http://fonts.googleapis.com/css?family=Droid+Sans");
-@import url("http://fonts.googleapis.com/css?family=Ubuntu");
-@import url("http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700");
-
+ 
 /* Arkham CSS - Basic Page */
 
 body {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 100%;
+  font-family: 'San Francisco Text', 'Lucida Grande', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
   font-weight: normal;
   text-rendering: optimizeLegibility;
   background-color: #f6f6f6;
-  color: #333;
+  color: #555;
   position: relative;
   margin: 10;
   padding: 0;
   padding-bottom: 6rem;
   min-height: 100%;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
 }
 
 /* Arkham CSS - Links */
@@ -50,7 +47,7 @@ a:active {
 /* Arkham CSS - h1-h6 */
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+  font-family: 'San Francisco Text', 'Lucida Grande', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   color: #202020;
   border-bottom: 1px solid #eaecef;
@@ -58,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 blockquote {
-  font-family: 'Courier';
+  font-family: 'Monaco';
   background-color: #fafafa;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -66,7 +63,7 @@ blockquote {
 }
 
 pre {
-  font-family: 'Courier';
+  font-family: 'Monaco';
   background-color: #fafafa;
   border: 1px solid #ccc;
   border-radius: 4px;
